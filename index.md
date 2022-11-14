@@ -1069,7 +1069,9 @@ Here is an example of where "government" exists but "gov" returns nothing
     [cs15lfa22ic@ieng6-203]:docsearch:203$ 
 
 ___
+
 ## **Option: -empty** ##
+
 Finds all empty folders and files in the directory and sub-directories. This is useful if you want to quickly find empty files to add into it.
 
     [cs15lfa22ic@ieng6-203]:docsearch:207$ find technical -empty
