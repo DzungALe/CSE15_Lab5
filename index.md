@@ -1045,8 +1045,11 @@ I made a new empty directory just to make sure only directory gets printed
     [cs15lfa22ic@ieng6-203]:docsearch:265$ find technical/newdirectory2
     technical/newdirectory2
     [cs15lfa22ic@ieng6-203]:docsearch:266$
+
 ___
+
 ## **Option: -name (file/directory name)** ##
+
 This find option allows user to find the name of a file or a directory. The command searches for any file or directory that matches the argument after "-name". There are no subtext searches. 
 
 Here is an example of finding nothing:
