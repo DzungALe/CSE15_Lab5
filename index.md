@@ -1,4 +1,4 @@
-# Lab Report eek 5 #
+# Lab Report Week 5 #
 
 For this week, there were 3 commands to choose from. I have decided to choose the "find" command and find alternatives for it
 
